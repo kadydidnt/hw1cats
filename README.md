@@ -1,1 +1,34 @@
-# hw1cats
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>KateCats</title>
+</head>
+<body>
+    <h1>Katie's Cat</h1>
+    <p>I have three short hair <a href='https://en.wikipedia.org/wiki/Cat'>cats</a></p>
+    <h2>Dresden</h2>
+        <img src="image/CatDresden.jpg" alt="Black and white in a monster bed" width="400">
+        <ul>
+            <li>Tuxedo cat</li>
+            <li>17 years old</li>
+            <li>nick name: Kitten Cat</li>
+        </ul>
+    <h2>Tip</h2>
+        <img src="image/CatTip.jpeg" alt="Black cat with a white chest and flour on its nose" width="400">
+        <ul>
+            <li>Black cat with white spots</li>
+            <li>11 years old</li>
+            <li>nick name: Tipourri</li>
+        </ul>
+    <h2>Fenick</h2>
+        <img src="image/CatFenick.jpg" alt="Gray tabby cat in the sun" width="500">
+        <ul>
+            <li>Gray tabby</li>
+            <li>10 years old</li>
+            <li>nick name: Fenick</li>
+        </ul>
+</body>
+
+</html>
